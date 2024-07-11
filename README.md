@@ -6,7 +6,7 @@ The Match Pair Game, also known as the Memory Game, is a simple and engaging gam
 
 
 ![Screenshot 2024-07-11 235115](https://github.com/chouhanmahima/matching-pair-game/assets/142296544/d3c82a35-afd7-43bf-b1c9-2828fd291f5a)
-png)
+
 
 ## Features
 
