@@ -49,13 +49,25 @@ p{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 44px;
+    font-size: 52px;
     color: white;
     cursor: pointer;
     border-radius: 8px;
     /* backface-visibility: hidden; */
-    transition: transform 0.5s;
+    box-shadow:  0px 3px 3px #0b0b0b26;
+    transition: transform 0.7s;
     transform: rotateY(180deg);
+    animation: bubbleEffects 1.5s;
+}
+
+@keyframes bubbleEffects {
+    25% {
+        scale: .4
+    }
+
+    to {
+        scale: 1
+    }
 }
 
 .card.face-up {
